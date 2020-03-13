@@ -1,0 +1,22 @@
+El programa le permite al usuario cifrar y decifrar un mensaje, 
+posteriormente lo muestra en pantalla.
+
+Prerequisitos:
+    - Python versión 3.6 o superior
+
+NOTA:
+    Si no tienes instalado python, puedes descargar la última versión 
+    disponible en: https://www.python.org/downloads/
+
+Ejecución:
+    - Ejecutar el archivo "Programa Cifrado.py".
+    - El programa se demora unos momentos al incio, mientras genera los archivos
+      necesarios para poder funcionar.
+    - Una vez dentro, el usuario puede cifrar o decifrar mensajes a su gusto.
+
+IMPORTANTE: NO BORRAR LA CARPETA "archivos" NI EL CONTENIDO DE ELLA, YA QUE CON ESO
+	    FUNCIONA EL PROGRAMA
+
+
+GRACIAS!
+    
